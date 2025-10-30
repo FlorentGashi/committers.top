@@ -283,14 +283,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 6
-    name: "United voice for change international"
-    login: "0955ken"
-    avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
-    contributions: 3
-    company: "non governmental organization"
-    organizations: ""
-
-  - rank: 7
     name: "David Gap"
     login: "KdavidGap"
     avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
@@ -298,12 +290,20 @@ users_public_contributions:
     company: "Ram Talent co."
     organizations: ""
 
-  - rank: 8
+  - rank: 7
     name: "Chewaka fikadu "
     login: "chewaka14"
     avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
     contributions: 3
     company: ""
+    organizations: ""
+
+  - rank: 8
+    name: "United voice for change international"
+    login: "0955ken"
+    avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
+    contributions: 3
+    company: "non governmental organization"
     organizations: ""
 
   - rank: 9
@@ -525,14 +525,6 @@ private_users:
     organizations: ""
 
   - rank: 6
-    name: "United voice for change international"
-    login: "0955ken"
-    avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
-    contributions: 3
-    company: "non governmental organization"
-    organizations: ""
-
-  - rank: 7
     name: "David Gap"
     login: "KdavidGap"
     avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
@@ -540,12 +532,20 @@ private_users:
     company: "Ram Talent co."
     organizations: ""
 
-  - rank: 8
+  - rank: 7
     name: "Chewaka fikadu "
     login: "chewaka14"
     avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
     contributions: 3
     company: ""
+    organizations: ""
+
+  - rank: 8
+    name: "United voice for change international"
+    login: "0955ken"
+    avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
+    contributions: 3
+    company: "non governmental organization"
     organizations: ""
 
   - rank: 9
@@ -741,7 +741,7 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2025-10-25T18:55:10Z
+generated: 2025-10-30T06:06:10Z
 min_followers_required: 0
 total_user_count: 30
 title: South Sudan
